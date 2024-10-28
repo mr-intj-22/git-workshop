@@ -1,0 +1,6 @@
+*.png
+*.jpeg
+*.jpg
+python_code
+cpp_code
+.vscode/settings.json
